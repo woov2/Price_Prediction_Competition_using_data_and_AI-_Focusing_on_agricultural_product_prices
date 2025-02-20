@@ -1,0 +1,25 @@
+<Version_1>
+### OS : Windows 10 
+### GPU 0 : NVIDIA GeForce RTX 3080 Ti Laptop GPU
+### GPU 1 : AMD Radeon(TM) Graphics
+### CPU : AMD Ryzen 9 6900HX with Radeon Graphics
+
+### -------------------------- Python & library version --------------------------
+### Python version: 3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)]
+### pandas version: 2.0.3
+### numpy version: 1.21.5
+### xgboost version: 1.7.2
+### scikit-learn version: 1.0.2
+------------------------------------------------------------------------------
+
+<Version_2>
+### OS : Windows 10
+### GPU 0 : NVIDIA GeForce RTX 4070
+### CPU : AMD Ryzen 7 3700X 8-Core Processor
+
+### -------------------------- Python & library version --------------------------
+### Python version: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+### pandas version: 2.0.3
+### numpy version: 1.24.3
+### xgboost version: 2.1.1
+### scikit-learn version: 1.5.1
